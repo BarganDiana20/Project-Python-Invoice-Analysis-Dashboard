@@ -1,4 +1,6 @@
 # Project-Python-Invoice-Analysis-Dashboard
 
 **Dashboard:**
-<img width="1185" height="779" alt="image1" />
+<img width="1185" height="779" alt="image1" src="https://github.com/user-attachments/assets/ "/>
+
+
